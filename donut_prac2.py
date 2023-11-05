@@ -1,3 +1,1 @@
-"this is donut2
-
-"
+print("donut2")
